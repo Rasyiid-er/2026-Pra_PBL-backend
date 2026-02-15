@@ -32,7 +32,7 @@ git clone https://github.com/Rasyiid-er/2026-Pra_PBL-backend.git
 
 3. Masuk ke direktori proyek:
 ```bash
-cd PRAPBL
+cd 2026-Pra_PBL-backend
 
 ```
 
