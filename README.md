@@ -1,6 +1,6 @@
 # 2026-RoomBooking-Backend
 
-## Description
+## Description 
 
 Repositori ini merupakan komponen **Backend** dari sistem manajemen peminjaman ruangan. Aplikasi ini dibangun menggunakan framework **ASP.NET Core** untuk menyediakan layanan API RESTful yang mengelola data ruangan, transaksi peminjaman, serta pencatatan riwayat status (*audit trail*) secara terstruktur .
 
